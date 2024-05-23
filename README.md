@@ -1,7 +1,7 @@
 # MeteoHist - Historical Meteo Graphs
 
-```markdown
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/yourusername/your-repo/main/app.py](https://pakmeteohist-wenclims.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pakmeteohist-wenclims.streamlit.app/)
+
 
 ## A Streamlit app to create interactive temperature and precipitation graphs for 43 cities in Pakistan.
 
