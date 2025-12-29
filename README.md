@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pakmeteohist-wenclims.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pak-energy-balance-sankey-diagram-wenclims.streamlit.app/)
 
 
 # MeteoHist - Historical Meteo Graphs
